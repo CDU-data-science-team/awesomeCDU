@@ -1,4 +1,4 @@
 library(testthat)
-library(tempPackage)
+library(awesomeCDU)
 
-test_check("tempPackage")
+test_check("awesomeCDU")
